@@ -1,1 +1,4 @@
-
+*.png
+*.jpeg
+target
+test-output
